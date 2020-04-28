@@ -1,8 +1,8 @@
 def position_taken? (board, index)
 
-  if board[index] != "" || " " || nil
+  if board[index] != "" || " "
     true
-  else board[index] = "" || " " || nil
+  else board[index] = "" || " "
     false
   end
 end
