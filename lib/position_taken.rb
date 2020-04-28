@@ -4,5 +4,5 @@ if board[index] = "" || " "
   false
 else
   true
-
+end
 end
